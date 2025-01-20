@@ -5,15 +5,14 @@ interface PortfolioBoxProps {
     data: {
         id: number,
         title: string
-        image: string
-        urlGithub: string
+        image: string      
         urlDemo: string
     }
 }
 
 const PortfolioBox = (props: PortfolioBoxProps) => {
     const { data } = props
-    const { id, title, image, urlDemo, urlGithub } = data
+    const { id, title, image, urlDemo} = data
 
     return (
         <div
@@ -28,7 +27,7 @@ const PortfolioBox = (props: PortfolioBoxProps) => {
             />
 
             <div className="flex gap-5 mt-5">
-         
+          
                 <Link
                     href={urlDemo}
                     target="_blank"
