@@ -121,7 +121,7 @@ export const dataPortfolio = [
         id: 1,
         title: "Ruleta - Evento Santiago Queirolo",
         image: "/queirolo.jpg",       
-        urlDemo: "https://gdiazi.github.io/queirolo/",
+        urlDemo: "https://ruletaqueirolo.netlify.app",
     },
     {
         id: 2,
