@@ -127,7 +127,7 @@ export const dataPortfolio = [
         id: 2,
         title: "Sorteo de instituciones",
         image: "/sorteo.jpg",       
-        urlDemo: "https://gdiazi.github.io/sorteo/",
+        urlDemo: "https://sorteo-queirolo.netlify.app",
     }
     
 ];
