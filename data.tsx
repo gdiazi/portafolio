@@ -128,8 +128,29 @@ export const dataPortfolio = [
         title: "Sorteo de instituciones",
         image: "/sorteo.jpg",       
         urlDemo: "https://sorteo-queirolo.netlify.app",
-    }
+    },
     
+    {
+        id: 3,
+        title: "MACS Soluciones Integrales",
+        image: "/macs.jpg",       
+        urlDemo: "https://macsconsulting-sac.com/",
+    },
+     
+  
+    {
+        id: 4,
+        title: "Canadyne",
+        image: "/canadyne.jpg",       
+        urlDemo: "https://canadyne.onrender.com/",
+    },
+
+      {
+        id: 5,
+        title: "Hummer",
+        image: "/hummer.jpg",       
+        urlDemo: "https://hummersac.netlify.app/",
+    },
 ];
 
 export const dataTestimonials = [
